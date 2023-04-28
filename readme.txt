@@ -16,6 +16,10 @@ How to RUN
 ----------
 Open MAIN.py file and command B would be all you need to do. 
 
+----------
+LIABRARIES
+----------
+CMU_graphics
 
 ----------
 Shortcut Command
