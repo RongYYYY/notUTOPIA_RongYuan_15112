@@ -14,16 +14,8 @@ not UTOPIA is an auto-generated 3D maze in which the player would need to utiliz
 ----------
 How to RUN
 ----------
-1. Follow instructions in LIBRARIES Section, Download cmu_graphics (edited). 
-2. Make sure you have pyamazeEdited.py(module), and the edited CMU_graphics in the same folder. 
-3. Open MAIN.py file and command B would be all you need to do. 
+Open MAIN.py file and command B would be all you need to do. 
 
-----------
-LIABRARIES
-----------
-CMU_graphics
-LINK: https://drive.google.com/file/d/1ik_SAbRfnyb6erEzT4pW1R1n8jzEdP9_/view?usp=share_link
-Make sure you download the file and put it together with the other code to run. 
 
 ----------
 Shortcut Command
